@@ -1,0 +1,46 @@
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+#about{
+	display: inline-block;
+	margin: 100px;
+	margin-left: 350px;
+	vertically-align: top;
+}
+
+#projects{
+	display: inline-block;
+	vertically-align: top;
+	margin-top: 0px;
+}
+
+fieldset{
+	width: 200px;
+	height: 100px;
+}
+
+a{
+	text-align: center;
+	margin-left: 80px;
+}
+
+.wrapper{
+	display: inline-block;
+}
+
+.box{
+	width: 100px;
+	height:100px;
+	background-color: yellow;
+	margin-left: 100px;
+}
+
+p{
+	text-align: center;
+	margin-left: 100px;
+}
